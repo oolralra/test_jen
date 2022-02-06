@@ -26,3 +26,4 @@ aws workflow template을 참조하면, 인증키를 어떻게 넣어야 하는�
 s3에 파일을 전송하는 것은 [여기](https://github.com/marketplace/actions/configure-aws-credentials-action-for-github-actions)를 참조
 
 - 젠킨스 연동 테스트 빌드 속도는 얼마나 되는가? 7초? 9999
+11
